@@ -1,0 +1,20 @@
+## Interface: 120007
+## Title: Notific
+## Notes: A simple addon that plays a sound when you get a whisper.
+## Author: zmudzinski
+## Version: 1.0.0
+## IconAtlas: communities-icon-chat
+
+## Category-enUS: Chat
+## Category-deDE: Chat
+## Category-esES: Chat
+## Category-esMX: Chat
+## Category-frFR: Discussion
+## Category-itIT: Chat
+## Category-koKR: 대화
+## Category-ptBR: Bate-papo
+## Category-ruRU: Чат
+## Category-zhCN: 聊天
+## Category-zhTW: 對話
+
+Notific.lua
