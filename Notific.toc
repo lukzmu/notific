@@ -1,8 +1,8 @@
-## Interface: 120007
+## Interface: 120100
 ## Title: Notific
 ## Notes: A simple addon that plays a sound when you get a whisper.
 ## Author: zmudzinski
-## Version: 1.0.1
+## Version: 1.0.2
 ## IconAtlas: communities-icon-chat
 ## X-Curse-Project-ID: 1592134
 
